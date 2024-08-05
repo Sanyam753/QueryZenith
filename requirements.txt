@@ -8,3 +8,6 @@ altair
 pandasai
 langchain_groq
 pandas
+langchain-core
+langchain-openai
+langchain-community
